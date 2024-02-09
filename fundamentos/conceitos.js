@@ -18,7 +18,10 @@ console.log('Com números -',2)
 
 
 /*****************************************/
-// Criação de variável
+
+// Criação de variáveis
+
+// Usando  'var'
 var nome = 'caneta'
 var qnt = 10
 var value = 6.4
@@ -30,7 +33,7 @@ console.log(total)
 console.log(nome)
 console.log('o tipo de', nome, 'é',typeof(teste))
 
-// Outra forma de criar variáveis 'let'
+// Outra forma de criar variáveis 'let' - melhor utilizado
 let data1 = 10
 let data2 = 20
 let data3 = 90
@@ -44,6 +47,7 @@ console.log('Número '+data1
 const a = 3
 
 /*****************************************/
+
 // Tipos de dados
 let numero = 5
 let float = 2.5 //apesar de ser real, ele é dito como número, igual int
